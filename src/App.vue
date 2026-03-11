@@ -13,8 +13,8 @@
     <main class="grid-container">
       
       <div class="card member-1">
-        <h2>メンバー1</h2>
-        <p>（ここに回答）</p>
+        <h2>武田朋也</h2>
+        <p>小川淳也「極めて慎重に, かつ丁寧に議論していく必要があるだろうと」</p>
       </div>
 
 
